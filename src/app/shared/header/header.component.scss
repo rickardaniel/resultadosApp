@@ -1,0 +1,49 @@
+.navbar{
+    background-color:#35325b;
+}
+
+a{
+    color: white;
+}
+
+@media (max-width: 359px) {
+    /* CSS styles for extra small screens */
+}
+@media (min-width: 360px) and (max-width: 575px) {
+    /* CSS styles for small screens */
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    /* CSS styles for medium screens */
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    /* CSS styles for large screens */
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    a{
+        color:white;
+        font-size: 0.75em;
+        font-weight: 500;
+    }
+    .titleNavbar{
+        color: rgb(61, 61, 61); font-weight: 600; font-size: x-large; letter-spacing: 5px; padding-left: 5em;
+    }
+    .imgNavbar{
+        width: 50px;
+    }
+    /* CSS styles for extra large screens */
+    
+}
+@media (min-width: 1200px) {
+    /* CSS styles for extra extra large screens */
+    a{
+        color:white;
+        font-size: 0.85em;
+        font-weight: 500;
+    }
+    .titleNavbar{
+        color: white; font-weight: 600; font-size: xx-large; letter-spacing: 7px; padding-left: 6em;
+    }
+    .imgNavbar{
+        width: 65px;
+    }
+}

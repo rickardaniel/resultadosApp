@@ -1,0 +1,13 @@
+.mainScreen{
+    // background-color: red;
+    // background-image: url(../../../assets/img/2.jpg);
+    // background-repeat: no-repeat;
+    min-height: 100vh;
+    height: 100%;
+    // background-size: cover;
+    background-image: linear-gradient(to right top, #cafdfd, #d6fdff, #e2fcff, #eefcff, #f8fcff, #f4f8fe, #f1f4fd, #eff0fb, #e0e6f8, #d0dcf6, #bdd3f3, #a7caf0);
+}
+pdf-viewer{
+    box-shadow: 2px 1px 4px 0px rgb(155, 155, 156);
+    border-radius: 10px;
+}

@@ -1,0 +1,7 @@
+[
+    {
+      "origin": ["resultados-e8e80.web.app"],
+      "method": ["GET"],
+      "maxAgeSeconds": 3600
+    }
+  ]
